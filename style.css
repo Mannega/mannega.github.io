@@ -1,0 +1,28 @@
+body {
+    background-color: aqua;
+    
+    
+}
+
+h1 {
+    color: blueviolet;
+}
+
+h2 {
+    color: rgb(201, 30, 201) !important;
+    font-size: 20px;
+}
+
+h3 {
+    color: rgb(187, 50, 72);
+}
+
+a:hover {
+    color: blue;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+a:active {
+    color: lightgreen;
+}
